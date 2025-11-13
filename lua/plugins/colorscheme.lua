@@ -18,6 +18,10 @@ return {
         }
     },
     {
+        "sainnhe/gruvbox-material",
+        opts = {}
+    },
+    {
         "catppuccin/nvim",
         name = "catppuccin",
     },
