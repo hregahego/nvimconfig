@@ -11,4 +11,5 @@ vim.diagnostic.config({
     underline = true,
 })
 
+vim.opt.swapfile = false
 
