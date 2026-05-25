@@ -1,4 +1,5 @@
 local opt = vim.o
+opt.winborder = "rounded"
 opt.confirm = true
 opt.cursorline = true
 opt.expandtab = true
